@@ -1,0 +1,1542 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-11-26",
+  "questions": [
+    {
+      "id": "q001",
+      "grade": "G1",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "1 + 2 = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "1和2合起来是3。",
+      "source": "人教版G1-数学"
+    },
+    {
+      "id": "q002",
+      "grade": "G1",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "下面哪个图形有3条边？",
+      "options": [
+        "正方形",
+        "三角形",
+        "圆形",
+        "长方形"
+      ],
+      "answer": 1,
+      "explanation": "三角形有3条边。",
+      "source": "人教版G1-数学"
+    },
+    {
+      "id": "q003",
+      "grade": "G1",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「大」的反义词是？",
+      "options": [
+        "小",
+        "多",
+        "高",
+        "长"
+      ],
+      "answer": 0,
+      "explanation": "大与小是一对反义词。",
+      "source": "部编版G1-语文"
+    },
+    {
+      "id": "q004",
+      "grade": "G1",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「上」的反义词是？",
+      "options": [
+        "下",
+        "左",
+        "右",
+        "中"
+      ],
+      "answer": 0,
+      "explanation": "上与下相对。",
+      "source": "部编版G1-语文"
+    },
+    {
+      "id": "q005",
+      "grade": "G1",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "Apple 的中文意思是？",
+      "options": [
+        "香蕉",
+        "苹果",
+        "橙子",
+        "梨"
+      ],
+      "answer": 1,
+      "explanation": "apple 是苹果。",
+      "source": "湘少版G1-英语"
+    },
+    {
+      "id": "q006",
+      "grade": "G2",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "5 + 7 = ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 1,
+      "explanation": "5加7等于12。",
+      "source": "人教版G2-数学"
+    },
+    {
+      "id": "q007",
+      "grade": "G2",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "一周有几天？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "一周有7天。",
+      "source": "人教版G2-数学"
+    },
+    {
+      "id": "q008",
+      "grade": "G2",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「春眠不觉晓」的下一句是？",
+      "options": [
+        "处处闻啼鸟",
+        "床前明月光",
+        "举头望明月",
+        "白日依山尽"
+      ],
+      "answer": 0,
+      "explanation": "出自孟浩然《春晓》。",
+      "source": "部编版G2-语文"
+    },
+    {
+      "id": "q009",
+      "grade": "G2",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「木」字旁的字大多与什么有关？",
+      "options": [
+        "树木",
+        "水",
+        "火",
+        "土"
+      ],
+      "answer": 0,
+      "explanation": "木字旁多与树木有关。",
+      "source": "部编版G2-语文"
+    },
+    {
+      "id": "q010",
+      "grade": "G2",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "How are you? 的正确回答是？",
+      "options": [
+        "I'm fine, thank you.",
+        "My name is Tom.",
+        "It's a cat.",
+        "Yes, I do."
+      ],
+      "answer": 0,
+      "explanation": "问候语应答“我很好，谢谢”。",
+      "source": "湘少版G2-英语"
+    },
+    {
+      "id": "q011",
+      "grade": "G3",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "6 × 7 = ?",
+      "options": [
+        "36",
+        "42",
+        "48",
+        "56"
+      ],
+      "answer": 1,
+      "explanation": "六七四十二。",
+      "source": "人教版G3-数学"
+    },
+    {
+      "id": "q012",
+      "grade": "G3",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "1米等于多少厘米？",
+      "options": [
+        "10",
+        "100",
+        "1000",
+        "60"
+      ],
+      "answer": 1,
+      "explanation": "1米=100厘米。",
+      "source": "人教版G3-数学"
+    },
+    {
+      "id": "q013",
+      "grade": "G3",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「三人行，必有我师」出自哪部经典？",
+      "options": [
+        "《论语》",
+        "《孟子》",
+        "《庄子》",
+        "《诗经》"
+      ],
+      "answer": 0,
+      "explanation": "出自《论语》。",
+      "source": "部编版G3-语文"
+    },
+    {
+      "id": "q014",
+      "grade": "G3",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "下列哪个词是描写秋天的？",
+      "options": [
+        "春暖花开",
+        "秋高气爽",
+        "冰天雪地",
+        "烈日炎炎"
+      ],
+      "answer": 1,
+      "explanation": "秋高气爽描写秋天。",
+      "source": "部编版G3-语文"
+    },
+    {
+      "id": "q015",
+      "grade": "G3",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "I ___ a student.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 0,
+      "explanation": "主语 I 用 am。",
+      "source": "湘少版G3-英语"
+    },
+    {
+      "id": "q016",
+      "grade": "G3",
+      "subject": "科学",
+      "textbook": "人教版",
+      "question": "植物进行光合作用主要需要什么？",
+      "options": [
+        "阳光、水和二氧化碳",
+        "月光和氮气",
+        "土壤和盐",
+        "风和沙"
+      ],
+      "answer": 0,
+      "explanation": "光合作用原料是水和二氧化碳，条件是光。",
+      "source": "人教版G3-科学"
+    },
+    {
+      "id": "q017",
+      "grade": "G4",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "360 ÷ 9 = ?",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "60"
+      ],
+      "answer": 0,
+      "explanation": "360除以9等于40。",
+      "source": "人教版G4-数学"
+    },
+    {
+      "id": "q018",
+      "grade": "G4",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "正方形边长5厘米，周长是多少？",
+      "options": [
+        "10厘米",
+        "15厘米",
+        "20厘米",
+        "25厘米"
+      ],
+      "answer": 2,
+      "explanation": "周长=边长×4=20厘米。",
+      "source": "人教版G4-数学"
+    },
+    {
+      "id": "q019",
+      "grade": "G4",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「不识庐山真面目」的下一句是？",
+      "options": [
+        "只缘身在此山中",
+        "一览众山小",
+        "天涯共此时",
+        "长河落日圆"
+      ],
+      "answer": 0,
+      "explanation": "出自苏轼《题西林壁》。",
+      "source": "部编版G4-语文"
+    },
+    {
+      "id": "q020",
+      "grade": "G4",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「称赞」的近义词是？",
+      "options": [
+        "批评",
+        "夸奖",
+        "责备",
+        "忽略"
+      ],
+      "answer": 1,
+      "explanation": "称赞即夸奖。",
+      "source": "部编版G4-语文"
+    },
+    {
+      "id": "q021",
+      "grade": "G4",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "What's your mother's job? — She is a ___ .",
+      "options": [
+        "teacher",
+        "apple",
+        "blue",
+        "Monday"
+      ],
+      "answer": 0,
+      "explanation": "问职业，回答职业名称。",
+      "source": "湘少版G4-英语"
+    },
+    {
+      "id": "q022",
+      "grade": "G4",
+      "subject": "科学",
+      "textbook": "人教版",
+      "question": "水的三态不包括以下哪一种？",
+      "options": [
+        "固态",
+        "液态",
+        "气态",
+        "等离子态"
+      ],
+      "answer": 3,
+      "explanation": "常见三态为固、液、气。",
+      "source": "人教版G4-科学"
+    },
+    {
+      "id": "q023",
+      "grade": "G5",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "0.25 + 0.75 = ?",
+      "options": [
+        "0.5",
+        "1",
+        "1.25",
+        "1.5"
+      ],
+      "answer": 1,
+      "explanation": "两数相加等于1。",
+      "source": "人教版G5-数学"
+    },
+    {
+      "id": "q024",
+      "grade": "G5",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "三角形底8cm、高5cm，面积是多少？",
+      "options": [
+        "20cm²",
+        "40cm²",
+        "13cm²",
+        "80cm²"
+      ],
+      "answer": 0,
+      "explanation": "面积=底×高÷2=20cm²。",
+      "source": "人教版G5-数学"
+    },
+    {
+      "id": "q025",
+      "grade": "G5",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "《西游记》的作者是？",
+      "options": [
+        "罗贯中",
+        "施耐庵",
+        "吴承恩",
+        "曹雪芹"
+      ],
+      "answer": 2,
+      "explanation": "《西游记》作者吴承恩。",
+      "source": "部编版G5-语文"
+    },
+    {
+      "id": "q026",
+      "grade": "G5",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「少年不识愁滋味」出自哪位词人？",
+      "options": [
+        "辛弃疾",
+        "苏轼",
+        "李清照",
+        "李白"
+      ],
+      "answer": 0,
+      "explanation": "出自辛弃疾《丑奴儿》。",
+      "source": "部编版G5-语文"
+    },
+    {
+      "id": "q027",
+      "grade": "G5",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "I go to school ___ bus.",
+      "options": [
+        "by",
+        "on",
+        "in",
+        "with"
+      ],
+      "answer": 0,
+      "explanation": "by bus 表示乘公交车。",
+      "source": "湘少版G5-英语"
+    },
+    {
+      "id": "q028",
+      "grade": "G5",
+      "subject": "科学",
+      "textbook": "人教版",
+      "question": "人体最大的器官是？",
+      "options": [
+        "心脏",
+        "皮肤",
+        "肝脏",
+        "肺"
+      ],
+      "answer": 1,
+      "explanation": "皮肤覆盖全身，面积最大。",
+      "source": "人教版G5-科学"
+    },
+    {
+      "id": "q029",
+      "grade": "G6",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "3/4 化成小数是？",
+      "options": [
+        "0.34",
+        "0.75",
+        "0.43",
+        "1.33"
+      ],
+      "answer": 1,
+      "explanation": "3÷4=0.75。",
+      "source": "人教版G6-数学"
+    },
+    {
+      "id": "q030",
+      "grade": "G6",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "圆的半径是3cm，直径是多少？",
+      "options": [
+        "3cm",
+        "6cm",
+        "9cm",
+        "12cm"
+      ],
+      "answer": 1,
+      "explanation": "直径=半径×2。",
+      "source": "人教版G6-数学"
+    },
+    {
+      "id": "q031",
+      "grade": "G6",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「但愿人长久，千里共婵娟」中的「婵娟」指？",
+      "options": [
+        "月亮",
+        "太阳",
+        "星星",
+        "花朵"
+      ],
+      "answer": 0,
+      "explanation": "婵娟这里指月亮。",
+      "source": "部编版G6-语文"
+    },
+    {
+      "id": "q032",
+      "grade": "G6",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「守株待兔」比喻什么？",
+      "options": [
+        "不劳而获、死守经验",
+        "勤奋努力",
+        "勇敢无畏",
+        "团结合作"
+      ],
+      "answer": 0,
+      "explanation": "比喻心存侥幸、不知变通。",
+      "source": "部编版G6-语文"
+    },
+    {
+      "id": "q033",
+      "grade": "G6",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "There ___ some milk in the glass.",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "milk 不可数，用 is。",
+      "source": "湘少版G6-英语"
+    },
+    {
+      "id": "q034",
+      "grade": "G6",
+      "subject": "科学",
+      "textbook": "人教版",
+      "question": "地球围绕什么公转？",
+      "options": [
+        "月球",
+        "太阳",
+        "火星",
+        "北极星"
+      ],
+      "answer": 1,
+      "explanation": "地球绕太阳公转。",
+      "source": "人教版G6-科学"
+    },
+    {
+      "id": "q035",
+      "grade": "G7",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "解方程 2x + 6 = 14，x = ?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "移项得2x=8，x=4。",
+      "source": "人教版G7-数学"
+    },
+    {
+      "id": "q036",
+      "grade": "G7",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "−3 + 5 = ?",
+      "options": [
+        "−8",
+        "−2",
+        "2",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "异号相加取绝对值大的符号，结果2。",
+      "source": "人教版G7-数学"
+    },
+    {
+      "id": "q037",
+      "grade": "G7",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "《论语》记录的是谁的言行？",
+      "options": [
+        "孔子及其弟子",
+        "老子",
+        "孟子",
+        "庄子"
+      ],
+      "answer": 0,
+      "explanation": "《论语》记录孔子及弟子言行。",
+      "source": "部编版G7-语文"
+    },
+    {
+      "id": "q038",
+      "grade": "G7",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「山重水复疑无路」的下一句是？",
+      "options": [
+        "柳暗花明又一村",
+        "一览众山小",
+        "江清月近人",
+        "春江水暖鸭先知"
+      ],
+      "answer": 0,
+      "explanation": "出自陆游《游山西村》。",
+      "source": "部编版G7-语文"
+    },
+    {
+      "id": "q039",
+      "grade": "G7",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "He ___ to school every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1,
+      "explanation": "第三人称单数用 goes。",
+      "source": "湘少版G7-英语"
+    },
+    {
+      "id": "q040",
+      "grade": "G7",
+      "subject": "生物",
+      "textbook": "人教版",
+      "question": "植物细胞特有的结构是？",
+      "options": [
+        "细胞壁",
+        "细胞膜",
+        "细胞质",
+        "细胞核"
+      ],
+      "answer": 0,
+      "explanation": "动物细胞没有细胞壁。",
+      "source": "人教版G7-生物"
+    },
+    {
+      "id": "q041",
+      "grade": "G7",
+      "subject": "历史",
+      "textbook": "部编版",
+      "question": "秦始皇统一六国是在哪一年？",
+      "options": [
+        "公元前221年",
+        "公元前202年",
+        "公元221年",
+        "公元202年"
+      ],
+      "answer": 0,
+      "explanation": "前221年秦统一六国。",
+      "source": "部编版G7-历史"
+    },
+    {
+      "id": "q042",
+      "grade": "G7",
+      "subject": "地理",
+      "textbook": "人教版",
+      "question": "世界上面积最大的洲是？",
+      "options": [
+        "亚洲",
+        "非洲",
+        "北美洲",
+        "欧洲"
+      ],
+      "answer": 0,
+      "explanation": "亚洲面积约4400万平方千米。",
+      "source": "人教版G7-地理"
+    },
+    {
+      "id": "q043",
+      "grade": "G7",
+      "subject": "道德与法治",
+      "textbook": "部编版",
+      "question": "我国保护未成年人的专门法律是？",
+      "options": [
+        "《未成年人保护法》",
+        "《刑法》",
+        "《民法通则》",
+        "《劳动法》"
+      ],
+      "answer": 0,
+      "explanation": "《未成年人保护法》是专门法律。",
+      "source": "部编版G7-道德与法治"
+    },
+    {
+      "id": "q044",
+      "grade": "G8",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "直角三角形两直角边为3和4，斜边是？",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "勾股定理：3²+4²=5²。",
+      "source": "人教版G8-数学"
+    },
+    {
+      "id": "q045",
+      "grade": "G8",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "一次函数 y=2x+1，当 x=3 时 y=?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "代入得2×3+1=7。",
+      "source": "人教版G8-数学"
+    },
+    {
+      "id": "q046",
+      "grade": "G8",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "《背影》的作者是？",
+      "options": [
+        "朱自清",
+        "鲁迅",
+        "老舍",
+        "巴金"
+      ],
+      "answer": 0,
+      "explanation": "《背影》是朱自清散文。",
+      "source": "部编版G8-语文"
+    },
+    {
+      "id": "q047",
+      "grade": "G8",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「感时花溅泪，恨别鸟惊心」出自？",
+      "options": [
+        "杜甫《春望》",
+        "李白《静夜思》",
+        "白居易《赋得古原草送别》",
+        "王维《相思》"
+      ],
+      "answer": 0,
+      "explanation": "出自杜甫《春望》。",
+      "source": "部编版G8-语文"
+    },
+    {
+      "id": "q048",
+      "grade": "G8",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "I have been to Beijing ___ .",
+      "options": [
+        "twice",
+        "two times",
+        "second",
+        "two"
+      ],
+      "answer": 0,
+      "explanation": "两次用 twice。",
+      "source": "湘少版G8-英语"
+    },
+    {
+      "id": "q049",
+      "grade": "G8",
+      "subject": "物理",
+      "textbook": "人教版",
+      "question": "光在真空中的传播速度约为？",
+      "options": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "340 m/s",
+        "1.5×10⁸ m/s"
+      ],
+      "answer": 0,
+      "explanation": "真空光速约3×10⁸ m/s。",
+      "source": "人教版G8-物理"
+    },
+    {
+      "id": "q050",
+      "grade": "G8",
+      "subject": "生物",
+      "textbook": "人教版",
+      "question": "人体消化和吸收的主要场所是？",
+      "options": [
+        "胃",
+        "小肠",
+        "大肠",
+        "食道"
+      ],
+      "answer": 1,
+      "explanation": "小肠是主要消化吸收场所。",
+      "source": "人教版G8-生物"
+    },
+    {
+      "id": "q051",
+      "grade": "G8",
+      "subject": "历史",
+      "textbook": "部编版",
+      "question": "鸦片战争爆发于哪一年？",
+      "options": [
+        "1839年",
+        "1840年",
+        "1842年",
+        "1894年"
+      ],
+      "answer": 1,
+      "explanation": "1840年鸦片战争爆发。",
+      "source": "部编版G8-历史"
+    },
+    {
+      "id": "q052",
+      "grade": "G8",
+      "subject": "地理",
+      "textbook": "人教版",
+      "question": "我国最长的河流是？",
+      "options": [
+        "黄河",
+        "长江",
+        "珠江",
+        "黑龙江"
+      ],
+      "answer": 1,
+      "explanation": "长江全长约6300千米。",
+      "source": "人教版G8-地理"
+    },
+    {
+      "id": "q053",
+      "grade": "G8",
+      "subject": "道德与法治",
+      "textbook": "部编版",
+      "question": "公民的基本权利和义务由哪部法律规定？",
+      "options": [
+        "宪法",
+        "刑法",
+        "民法",
+        "行政法"
+      ],
+      "answer": 0,
+      "explanation": "宪法规定公民基本权利义务。",
+      "source": "部编版G8-道德与法治"
+    },
+    {
+      "id": "q054",
+      "grade": "G9",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "方程 x²−5x+6=0 的根是？",
+      "options": [
+        "1和6",
+        "2和3",
+        "−2和−3",
+        "0和5"
+      ],
+      "answer": 1,
+      "explanation": "分解为(x−2)(x−3)=0。",
+      "source": "人教版G9-数学"
+    },
+    {
+      "id": "q055",
+      "grade": "G9",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "sin30° 的值是？",
+      "options": [
+        "1/2",
+        "√2/2",
+        "√3/2",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "特殊角三角函数值。",
+      "source": "人教版G9-数学"
+    },
+    {
+      "id": "q056",
+      "grade": "G9",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「先天下之忧而忧，后天下之乐而乐」出自？",
+      "options": [
+        "范仲淹《岳阳楼记》",
+        "欧阳修《醉翁亭记》",
+        "苏轼《赤壁赋》",
+        "柳宗元《小石潭记》"
+      ],
+      "answer": 0,
+      "explanation": "出自范仲淹《岳阳楼记》。",
+      "source": "部编版G9-语文"
+    },
+    {
+      "id": "q057",
+      "grade": "G9",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "《故乡》的作者是？",
+      "options": [
+        "鲁迅",
+        "茅盾",
+        "叶圣陶",
+        "郁达夫"
+      ],
+      "answer": 0,
+      "explanation": "《故乡》选自鲁迅《呐喊》。",
+      "source": "部编版G9-语文"
+    },
+    {
+      "id": "q058",
+      "grade": "G9",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "If it ___ tomorrow, we will stay at home.",
+      "options": [
+        "rain",
+        "rains",
+        "will rain",
+        "rained"
+      ],
+      "answer": 1,
+      "explanation": "条件状语从句主将从现。",
+      "source": "湘少版G9-英语"
+    },
+    {
+      "id": "q059",
+      "grade": "G9",
+      "subject": "物理",
+      "textbook": "人教版",
+      "question": "欧姆定律的表达式是？",
+      "options": [
+        "I=U/R",
+        "U=I/R",
+        "R=UI",
+        "I=UR"
+      ],
+      "answer": 0,
+      "explanation": "电流与电压成正比、与电阻成反比。",
+      "source": "人教版G9-物理"
+    },
+    {
+      "id": "q060",
+      "grade": "G9",
+      "subject": "化学",
+      "textbook": "人教版",
+      "question": "水的化学式是？",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "answer": 0,
+      "explanation": "水由氢氧元素组成，H2O。",
+      "source": "人教版G9-化学"
+    },
+    {
+      "id": "q061",
+      "grade": "G9",
+      "subject": "历史",
+      "textbook": "部编版",
+      "question": "中华人民共和国成立于哪一年？",
+      "options": [
+        "1945年",
+        "1949年",
+        "1950年",
+        "1978年"
+      ],
+      "answer": 1,
+      "explanation": "1949年10月1日开国大典。",
+      "source": "部编版G9-历史"
+    },
+    {
+      "id": "q062",
+      "grade": "G9",
+      "subject": "地理",
+      "textbook": "人教版",
+      "question": "我国地势特点是？",
+      "options": [
+        "西高东低，呈三级阶梯",
+        "东高西低",
+        "中间高四周低",
+        "南高北低"
+      ],
+      "answer": 0,
+      "explanation": "我国地势西高东低呈三级阶梯。",
+      "source": "人教版G9-地理"
+    },
+    {
+      "id": "q063",
+      "grade": "G9",
+      "subject": "道德与法治",
+      "textbook": "部编版",
+      "question": "我国的根本政治制度是？",
+      "options": [
+        "人民代表大会制度",
+        "多党合作制",
+        "民族区域自治制度",
+        "基层群众自治制度"
+      ],
+      "answer": 0,
+      "explanation": "人民代表大会制度是根本政治制度。",
+      "source": "部编版G9-道德与法治"
+    },
+    {
+      "id": "q064",
+      "grade": "G10",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "函数 f(x)=x²−2x+1 的最小值是？",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "2"
+      ],
+      "answer": 1,
+      "explanation": "f(x)=(x−1)²，最小值为0。",
+      "source": "人教版G10-数学"
+    },
+    {
+      "id": "q065",
+      "grade": "G10",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "等差数列 2,5,8,… 的第10项是？",
+      "options": [
+        "26",
+        "29",
+        "32",
+        "35"
+      ],
+      "answer": 2,
+      "explanation": "公差3，a10=2+9×3=29。",
+      "source": "人教版G10-数学"
+    },
+    {
+      "id": "q066",
+      "grade": "G10",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "《荷塘月色》的作者是？",
+      "options": [
+        "朱自清",
+        "徐志摩",
+        "郁达夫",
+        "冰心"
+      ],
+      "answer": 0,
+      "explanation": "《荷塘月色》是朱自清作品。",
+      "source": "部编版G10-语文"
+    },
+    {
+      "id": "q067",
+      "grade": "G10",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「路漫漫其修远兮」的下一句是？",
+      "options": [
+        "吾将上下而求索",
+        "直挂云帆济沧海",
+        "悠然见南山",
+        "天生我材必有用"
+      ],
+      "answer": 0,
+      "explanation": "出自屈原《离骚》。",
+      "source": "部编版G10-语文"
+    },
+    {
+      "id": "q068",
+      "grade": "G10",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "The book ___ I bought yesterday is very interesting.",
+      "options": [
+        "which",
+        "what",
+        "who",
+        "whom"
+      ],
+      "answer": 0,
+      "explanation": "先行词为物，用 which 引导定语从句。",
+      "source": "湘少版G10-英语"
+    },
+    {
+      "id": "q069",
+      "grade": "G10",
+      "subject": "物理",
+      "textbook": "人教版",
+      "question": "牛顿第二定律的表达式是？",
+      "options": [
+        "F=ma",
+        "F=mv",
+        "E=mc²",
+        "p=mv"
+      ],
+      "answer": 0,
+      "explanation": "合外力等于质量乘加速度。",
+      "source": "人教版G10-物理"
+    },
+    {
+      "id": "q070",
+      "grade": "G10",
+      "subject": "化学",
+      "textbook": "人教版",
+      "question": "NaCl 属于哪类物质？",
+      "options": [
+        "酸",
+        "碱",
+        "盐",
+        "氧化物"
+      ],
+      "answer": 2,
+      "explanation": "氯化钠是盐。",
+      "source": "人教版G10-化学"
+    },
+    {
+      "id": "q071",
+      "grade": "G10",
+      "subject": "生物",
+      "textbook": "人教版",
+      "question": "细胞中的「动力车间」是？",
+      "options": [
+        "线粒体",
+        "叶绿体",
+        "核糖体",
+        "细胞核"
+      ],
+      "answer": 0,
+      "explanation": "线粒体是呼吸作用主要场所。",
+      "source": "人教版G10-生物"
+    },
+    {
+      "id": "q072",
+      "grade": "G10",
+      "subject": "历史",
+      "textbook": "部编版",
+      "question": "世界上现存最早的成文法典之一是？",
+      "options": [
+        "《汉谟拉比法典》",
+        "《十二铜表法》",
+        "《查士丁尼法典》",
+        "《拿破仑法典》"
+      ],
+      "answer": 0,
+      "explanation": "《汉谟拉比法典》是古巴比伦法典。",
+      "source": "部编版G10-历史"
+    },
+    {
+      "id": "q073",
+      "grade": "G10",
+      "subject": "地理",
+      "textbook": "人教版",
+      "question": "地球上最大的大洋是？",
+      "options": [
+        "太平洋",
+        "大西洋",
+        "印度洋",
+        "北冰洋"
+      ],
+      "answer": 0,
+      "explanation": "太平洋面积最大。",
+      "source": "人教版G10-地理"
+    },
+    {
+      "id": "q074",
+      "grade": "G10",
+      "subject": "道德与法治",
+      "textbook": "部编版",
+      "question": "我国的基本经济制度是？",
+      "options": [
+        "公有制为主体、多种所有制经济共同发展",
+        "完全计划经济",
+        "单一公有制",
+        "自由市场经济"
+      ],
+      "answer": 0,
+      "explanation": "这是我国基本经济制度的内容。",
+      "source": "部编版G10-道德与法治"
+    },
+    {
+      "id": "q075",
+      "grade": "G11",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "若 log₂8 = x，则 x = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "2的3次方等于8。",
+      "source": "人教版G11-数学"
+    },
+    {
+      "id": "q076",
+      "grade": "G11",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "复数 (1+i)² 等于？",
+      "options": [
+        "2i",
+        "1+2i",
+        "2+2i",
+        "0"
+      ],
+      "answer": 0,
+      "explanation": "展开 1+2i+i²=2i。",
+      "source": "人教版G11-数学"
+    },
+    {
+      "id": "q077",
+      "grade": "G11",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "《红楼梦》的作者是？",
+      "options": [
+        "曹雪芹",
+        "罗贯中",
+        "施耐庵",
+        "吴承恩"
+      ],
+      "answer": 0,
+      "explanation": "《红楼梦》前80回作者曹雪芹。",
+      "source": "部编版G11-语文"
+    },
+    {
+      "id": "q078",
+      "grade": "G11",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「落霞与孤鹜齐飞」的下一句是？",
+      "options": [
+        "秋水共长天一色",
+        "江月年年望相似",
+        "不尽长江滚滚来",
+        "天涯何处无芳草"
+      ],
+      "answer": 0,
+      "explanation": "出自王勃《滕王阁序》。",
+      "source": "部编版G11-语文"
+    },
+    {
+      "id": "q079",
+      "grade": "G11",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "By the time he arrived, the film ___ .",
+      "options": [
+        "had started",
+        "has started",
+        "started",
+        "starts"
+      ],
+      "answer": 0,
+      "explanation": "by the time 引导过去完成时。",
+      "source": "湘少版G11-英语"
+    },
+    {
+      "id": "q080",
+      "grade": "G11",
+      "subject": "物理",
+      "textbook": "人教版",
+      "question": "电场强度的国际单位是？",
+      "options": [
+        "N/C",
+        "N·m",
+        "J/C",
+        "Wb"
+      ],
+      "answer": 0,
+      "explanation": "电场强度单位牛每库。",
+      "source": "人教版G11-物理"
+    },
+    {
+      "id": "q081",
+      "grade": "G11",
+      "subject": "化学",
+      "textbook": "人教版",
+      "question": "乙醇完全燃烧的主要产物是？",
+      "options": [
+        "CO2 和 H2O",
+        "CO 和 H2",
+        "C 和 H2O",
+        "CH4 和 O2"
+      ],
+      "answer": 0,
+      "explanation": "有机物完全燃烧生成二氧化碳和水。",
+      "source": "人教版G11-化学"
+    },
+    {
+      "id": "q082",
+      "grade": "G11",
+      "subject": "生物",
+      "textbook": "人教版",
+      "question": "孟德尔遗传定律包括？",
+      "options": [
+        "分离定律和自由组合定律",
+        "进化论",
+        "细胞学说",
+        "中心法则"
+      ],
+      "answer": 0,
+      "explanation": "孟德尔提出两大遗传定律。",
+      "source": "人教版G11-生物"
+    },
+    {
+      "id": "q083",
+      "grade": "G11",
+      "subject": "历史",
+      "textbook": "部编版",
+      "question": "辛亥革命爆发于哪一年？",
+      "options": [
+        "1905年",
+        "1911年",
+        "1912年",
+        "1919年"
+      ],
+      "answer": 1,
+      "explanation": "1911年武昌起义。",
+      "source": "部编版G11-历史"
+    },
+    {
+      "id": "q084",
+      "grade": "G11",
+      "subject": "地理",
+      "textbook": "人教版",
+      "question": "我国最大的岛屿是？",
+      "options": [
+        "台湾岛",
+        "海南岛",
+        "钓鱼岛",
+        "崇明岛"
+      ],
+      "answer": 0,
+      "explanation": "台湾岛是我国第一大岛。",
+      "source": "人教版G11-地理"
+    },
+    {
+      "id": "q085",
+      "grade": "G11",
+      "subject": "道德与法治",
+      "textbook": "部编版",
+      "question": "我国的国家性质是？",
+      "options": [
+        "人民民主专政的社会主义国家",
+        "资本主义国家",
+        "联邦制国家",
+        "君主立宪国家"
+      ],
+      "answer": 0,
+      "explanation": "宪法规定我国是人民民主专政的社会主义国家。",
+      "source": "部编版G11-道德与法治"
+    },
+    {
+      "id": "q086",
+      "grade": "G12",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "lim(x→0) sin x / x = ?",
+      "options": [
+        "0",
+        "1",
+        "∞",
+        "不存在"
+      ],
+      "answer": 1,
+      "explanation": "重要极限，结果为1。",
+      "source": "人教版G12-数学"
+    },
+    {
+      "id": "q087",
+      "grade": "G12",
+      "subject": "数学",
+      "textbook": "人教版",
+      "question": "若随机变量 X~N(0,1)，其方差是？",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "标准正态分布方差为1。",
+      "source": "人教版G12-数学"
+    },
+    {
+      "id": "q088",
+      "grade": "G12",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "「大江东去，浪淘尽」出自哪位词人？",
+      "options": [
+        "苏轼",
+        "辛弃疾",
+        "柳永",
+        "李清照"
+      ],
+      "answer": 0,
+      "explanation": "出自苏轼《念奴娇·赤壁怀古》。",
+      "source": "部编版G12-语文"
+    },
+    {
+      "id": "q089",
+      "grade": "G12",
+      "subject": "语文",
+      "textbook": "部编版",
+      "question": "《雷雨》的作者是？",
+      "options": [
+        "曹禺",
+        "老舍",
+        "郭沫若",
+        "田汉"
+      ],
+      "answer": 0,
+      "explanation": "《雷雨》是曹禺话剧。",
+      "source": "部编版G12-语文"
+    },
+    {
+      "id": "q090",
+      "grade": "G12",
+      "subject": "英语",
+      "textbook": "湘少版",
+      "question": "I wish I ___ more time to prepare.",
+      "options": [
+        "have",
+        "had",
+        "will have",
+        "has"
+      ],
+      "answer": 1,
+      "explanation": "wish 后接虚拟语气用过去式。",
+      "source": "湘少版G12-英语"
+    },
+    {
+      "id": "q091",
+      "grade": "G12",
+      "subject": "物理",
+      "textbook": "人教版",
+      "question": "光电效应说明光具有？",
+      "options": [
+        "粒子性",
+        "波动性",
+        "热学性质",
+        "磁学性质"
+      ],
+      "answer": 0,
+      "explanation": "光电效应体现光的粒子性。",
+      "source": "人教版G12-物理"
+    },
+    {
+      "id": "q092",
+      "grade": "G12",
+      "subject": "化学",
+      "textbook": "人教版",
+      "question": "苯的分子式是？",
+      "options": [
+        "C6H6",
+        "C6H12",
+        "C2H6",
+        "C7H8"
+      ],
+      "answer": 0,
+      "explanation": "苯由六个碳六个氢组成。",
+      "source": "人教版G12-化学"
+    },
+    {
+      "id": "q093",
+      "grade": "G12",
+      "subject": "生物",
+      "textbook": "人教版",
+      "question": "DNA 双螺旋结构的提出者是？",
+      "options": [
+        "沃森和克里克",
+        "孟德尔",
+        "达尔文",
+        "巴斯德"
+      ],
+      "answer": 0,
+      "explanation": "1953年沃森和克里克提出双螺旋模型。",
+      "source": "人教版G12-生物"
+    },
+    {
+      "id": "q094",
+      "grade": "G12",
+      "subject": "历史",
+      "textbook": "部编版",
+      "question": "第一次世界大战爆发于哪一年？",
+      "options": [
+        "1914年",
+        "1915年",
+        "1917年",
+        "1918年"
+      ],
+      "answer": 0,
+      "explanation": "1914年萨拉热窝事件后爆发。",
+      "source": "部编版G12-历史"
+    },
+    {
+      "id": "q095",
+      "grade": "G12",
+      "subject": "地理",
+      "textbook": "人教版",
+      "question": "我国面积最大的省级行政区是？",
+      "options": [
+        "新疆维吾尔自治区",
+        "西藏自治区",
+        "内蒙古自治区",
+        "青海省"
+      ],
+      "answer": 0,
+      "explanation": "新疆面积约166万平方千米。",
+      "source": "人教版G12-地理"
+    },
+    {
+      "id": "q096",
+      "grade": "G12",
+      "subject": "道德与法治",
+      "textbook": "部编版",
+      "question": "全面依法治国的总目标是？",
+      "options": [
+        "建设中国特色社会主义法治体系、建设社会主义法治国家",
+        "实现共同富裕",
+        "全面建成小康社会",
+        "维护世界和平"
+      ],
+      "answer": 0,
+      "explanation": "这是十八届四中全会提出的总目标。",
+      "source": "部编版G12-道德与法治"
+    }
+  ]
+}
